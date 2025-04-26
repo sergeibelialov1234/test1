@@ -1,1 +1,2 @@
-let test = 123asd
+let test = 123
+let test2 = "Hey"
